@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "391027050632",
+    "project_id": "mydvm-1655f",
+    "storage_bucket": "mydvm-1655f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391027050632:android:8298d1bb5f14590398b73d",
+        "android_client_info": {
+          "package_name": "com.example.dvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391027050632-9bkjcmr26f5lim3e30f2fp3ton8m21i3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dvm",
+            "certificate_hash": "b266ec947046f8402df0394bee0b3183bc503938"
+          }
+        },
+        {
+          "client_id": "391027050632-seg4kemrfvu6kbd0te2n9aarmkevoj7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zFfby_LUSMh4KKsfnjKv90ZMyrFPWjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391027050632-seg4kemrfvu6kbd0te2n9aarmkevoj7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
